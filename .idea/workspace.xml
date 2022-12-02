@@ -20,12 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95d98264-bb48-4f2d-8b34-bff950782b6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/baitap_SS5/bannangcaoss5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap_SS5/formdangkyss5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap_SS5/taobandongianss5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap_SS5/taoformdongianss5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap_SS5/taokhachhangss5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap_SS5/bannangcaoss5.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap_SS5/bannangcaoss5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap_SS5/taokhachhangss5.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap_SS5/taokhachhangss5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +83,8 @@
       <workItem from="1669867890898" duration="2423000" />
       <workItem from="1669874550405" duration="7097000" />
       <workItem from="1669901184450" duration="10032000" />
-      <workItem from="1669944048145" duration="16107000" />
+      <workItem from="1669944048145" duration="18762000" />
+      <workItem from="1669977854766" duration="542000" />
     </task>
     <servers />
   </component>

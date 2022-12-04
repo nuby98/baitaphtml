@@ -2,9 +2,33 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>Hiển thị đầu ra</title>
 </head>
 <body>
-$END$
+<button onclick="do_something()">Clink me</button>
+<!-- bai tap 2 -->
+<div id="massageDiv"></div>
+<button type="button" onclick="showMessage();">Click Me!</button>
+<!-- bai tap 3-->
+<button type="button" onclick="show();">Click me!</button>
+<!-- Bai tap 4 -->
+<button type="button" onclick="some();">Click Me!</button>
+
 </body>
 </html>
+<script>
+function do_something() {
+alert("Xin Chào");
+}
+function showMessage() {
+    document.getElementById("massageDiv").innerHTML ="Xin chào";
+
+}
+function show() {
+    document.write("Xin Chào");
+
+}
+function some() {
+console.log("Xin Chào");
+}
+</script>

@@ -20,16 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95d98264-bb48-4f2d-8b34-bff950782b6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/baitap_ss8/thuchanh1_ss8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap_ss8/thuchanh2_ss8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap_ss8/thuchanh3_ss8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitapss7/bai_2_0C _sang_0f_ss7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitapss7/bien,kieu du_lieu,toan_tu_ss7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitapss7/chuyendoitiente_ss7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitapss7/dientich_ss7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitapss7/maytinh_ss7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss8/thuchanh4_ss8.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitapss7/thuchanhss7.js" beforeDir="false" afterPath="$PROJECT_DIR$/baitapss7/thuchanhss7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap_ss8/thuchanh3_ss8.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap_ss8/thuchanh3_ss8.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module1/Bai tap/baitapss3/timsolonnhat.drawio (1).png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module1/Bai tap/baitapss3/timsolonnhat.drawio.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
@@ -100,6 +93,7 @@
       <workItem from="1670247650017" duration="2583000" />
       <workItem from="1670289497831" duration="15856000" />
       <workItem from="1670323961993" duration="7903000" />
+      <workItem from="1670338667613" duration="2968000" />
     </task>
     <servers />
   </component>
@@ -135,9 +129,9 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="427" y="100" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1669909242254" />
-    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1670146904269">
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1670341492896">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1670146904269" />
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1670341492896" />
   </component>
 </project>

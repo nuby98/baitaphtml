@@ -9,10 +9,21 @@
     let userName = prompt("Who's there?",'');
     if (userName == 'Admin'){
         let pass = prompt('Password?','');
-        if (pass == 'TheMaster') {
-    }else if (pass == null) {
-            alert('Welcome!');
-        }else 
+        if (pass == 'TheMaster'){
+        alert('Welcome');
+        } else if (pass == null){
+            alert('Canceled');
+        } else {
+            alert('Wrong password');
+        }
+    }else if (userName == null){
+        alert('canceld');
+    }else {
+        alert("I don't know you" );
+    }
+
+
+
 </script>
 </body>
 </html>

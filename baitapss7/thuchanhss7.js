@@ -30,3 +30,6 @@ if (a%b == 0){
 else {
     alert('a không chia hết cho b');
 }
+
+
+}

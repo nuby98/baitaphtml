@@ -20,10 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95d98264-bb48-4f2d-8b34-bff950782b6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/baitapss7/thuchanh2ss7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitapss7/thuchanhss7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitapss7/thuchanhss7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss8/thuchanh1_ss8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss8/thuchanh2_ss8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss8/thuchanh3_ss8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitapss7/bai_2_0C _sang_0f_ss7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitapss7/bien,kieu du_lieu,toan_tu_ss7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitapss7/chuyendoitiente_ss7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitapss7/dientich_ss7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitapss7/maytinh_ss7.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitapss7/thuchanhss7.js" beforeDir="false" afterPath="$PROJECT_DIR$/baitapss7/thuchanhss7.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module1/Bai tap/baitapss3/timsolonnhat.drawio (1).png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module1/Bai tap/baitapss3/timsolonnhat.drawio.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
@@ -47,6 +53,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="2II9pRJWORqaVxBGu1f5JKhwki3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -91,6 +98,8 @@
       <workItem from="1669977854766" duration="542000" />
       <workItem from="1670146682459" duration="5365000" />
       <workItem from="1670247650017" duration="2583000" />
+      <workItem from="1670289497831" duration="15856000" />
+      <workItem from="1670323961993" duration="7903000" />
     </task>
     <servers />
   </component>

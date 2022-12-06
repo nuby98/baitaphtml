@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ứng dụng chuyển đổi tiền tệ</title>
+</head>
+<body>
+<form>
+    <table>
+        <tr>
+            <th>
+                Amount
+            </th>
+            <th>
+                From Currence
+            </th>
+            <th></th>
+            <th>
+                To Currency
+            </th>
+        </tr>
+        <tr>
+            <td><input id="mony" type="text"></td>
+            <td>
+                <select id="from">
+                    <option value="VND">Viet Nam</option>
+                    <option value="USD">American</option>
+                </select>
+            </td>
+            <td></td>
+            <td>
+                <select id="to">
+                    <option value="USD">Đô</option>
+                    <option value="VND">Đồng</option>
+                </select>
+            </td>
+            <td>
+                <button type="button" onclick="changeMoney()" value="Convert" style="background: #a584d7">Convert
+                </button>
+            </td>
+        </tr>
+    </table>
+</form>
+<script>
+    function changeMoney() {
+        let money = document.getElementById("mony");
+        money = parseFloat(money);
+        let fromCurrency = document.getElementById("from");
+        let toCurrency = document.getElementById("to");
+        let result;
+
+        if (fromCurrency.value == "USD" && toCurrency.value == "VND") {
+            result = money * 23000;
+            alert(result);
+        } else if (fromCurrency.value == "VND" && toCurrency.value == "USD") {
+            result = money / 23000;
+            alert(result);
+        }
+        else {
+            alert(money);
+        }
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Xếp hạng học lực</title>
+</head>
+<body>
+<script>
+    let test= +prompt('Nhập điểm kiểm tra:  ');
+    let between= +prompt('Nhập điểm thi giữa kỳ:  ');
+    let final= +prompt('Nhập điểm thi cuối kỳ:  ');
+    let total=(test+(between*2)+(final*3))/6
+    if (total>=8){
+        alert('Học lực loại Giỏi');
+    }else if (total>=5){
+        alert('Học lực Loại Khá');
+    }else {
+        alert('Học lực loại Trung Bình');
+    }
+</script>
+</body>
+</html>

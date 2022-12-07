@@ -20,18 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95d98264-bb48-4f2d-8b34-bff950782b6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Nuby.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap_ss8/thuchanh5_ss8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap_ss8/tính chỉ số cân nặng ss8/baitap_tinhcannang_ss8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap_ss8/tính chỉ số cân nặng ss8/cannan_ss8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss8/Luyentapcautrucdk1_ss8/baitap1_ss8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss8/Luyentapcautrucdk1_ss8/baitap2_ss8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss8/Luyentapcautrucdk1_ss8/baitap3_ss8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss8/Luyentapcautrucdk1_ss8/baitap4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss8/Luyentapcautrucdk1_ss8/baitap5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss8/Luyentapcautrucdk1_ss8/baitap6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss8/baitap_tinhthang_ss8/tinhthang_ss8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss8/baitap_tinhthang_ss8/tinhthang_ss8.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/demo/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sự dụng thẻ HTML cơ ban.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo/Sự dụng thẻ HTML cơ ban.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tạo danh sách.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo/Tạo danh sách.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tạo trang CV cá nhân.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo/Tạo trang CV cá nhân.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitapss7/chuyendoitiente_ss7.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitapss7/chuyendoitiente_ss7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitapss7/maytinh_ss7.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitapss7/maytinh_ss7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap_ss8/tính chỉ số cân nặng ss8/baitap_tinhcannang_ss8.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap_ss8/tính chỉ số cân nặng ss8/baitap_tinhcannang_ss8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap_ss8/tính chỉ số cân nặng ss8/cannan_ss8.js" beforeDir="false" afterPath="$PROJECT_DIR$/baitap_ss8/tính chỉ số cân nặng ss8/cannan_ss8.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module1/Bai tap/baitapss3/timsolonnhat.drawio (1).png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module1/Bai tap/baitapss3/timsolonnhat.drawio.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
@@ -48,8 +47,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -107,7 +106,8 @@
       <workItem from="1670289497831" duration="15856000" />
       <workItem from="1670323961993" duration="7903000" />
       <workItem from="1670338667613" duration="2968000" />
-      <workItem from="1670384519225" duration="3846000" />
+      <workItem from="1670384519225" duration="18621000" />
+      <workItem from="1670411409496" duration="3661000" />
     </task>
     <servers />
   </component>
@@ -127,6 +127,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="400" y="0" key="#Inspections" timestamp="1670399902958">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="400" y="0" key="#Inspections/0.0.1536.816@0.0.1536.816" timestamp="1670399902958" />
     <state x="544" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1669903665016">
       <screen x="0" y="0" width="1536" height="816" />
     </state>

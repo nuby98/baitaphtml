@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>nhập 3 số nguyên tìm số lơn nhất</title>
+</head>
+<body>
+<script>
+    let number1= +prompt('Nhập số nguyên thứ nhất:  ');
+    let number2= +prompt('Nhập số nguyên thứ hai:   ');
+    let number3= +prompt('Nhập số nguyên thứ ba:  ');
+   if (number1 > number2 && number1 > number3){
+       alert( number1 + ' là số nguyên lớn nhất');
+   }else if (number2 > number1 && number2 > number3){
+       alert( number2 + ' là số nguyên lớn nhất');
+   }else {
+       alert(number3 + ' là số nguyên lớn nhất');
+   }
+</script>
+</body>
+</html>

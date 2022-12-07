@@ -8,8 +8,8 @@
 
 <h1>Caculator</h1>
 <div>
-    <input type="text" id="import1">
-    <input type="text" id="import2">
+    <label for="import1"></label><input type="text" id="import1">
+    <label for="import2"></label><input type="text" id="import2">
 </div>
 <div>
     <button onclick="add()">Addition(+)</button>
@@ -22,8 +22,8 @@
     function add() {
         let number1 = document.getElementById("import1").value;
         let number2 = document.getElementById("import2").value;
-        number1 = parseFloat(number1)
-        number2 = parseFloat(number2)
+        number1 = parseFloat(number1);
+        number2 = parseFloat(number2);
         let result = number1 + number2;
         alert(result);
 
@@ -32,8 +32,8 @@
     function Sub() {
         let number1 = document.getElementById("import1").value;
         let number2 = document.getElementById("import2").value;
-        number1 = parseFloat(number1)
-        number2 = parseFloat(number2)
+        number1 = parseFloat(number1);
+        number2 = parseFloat(number2);
         let result = number1 - number2;
         alert(result);
     }
@@ -41,8 +41,8 @@
     function Mul() {
         let number1 = document.getElementById("import1").value;
         let number2 = document.getElementById("import2").value;
-        number1 = parseFloat(number1)
-        number2 = parseFloat(number2)
+        number1 = parseFloat(number1);
+        number2 = parseFloat(number2);
         let result = number1 * number2;
         alert(result);
 
@@ -51,8 +51,8 @@
     function Divi() {
         let number1 = document.getElementById("import1").value;
         let number2 = document.getElementById("import2").value;
-        number1 = parseFloat(number1)
-        number2 = parseFloat(number2)
+        number1 = parseFloat(number1);
+        number2 = parseFloat(number2);
         let result = number1 / number2;
         alert(result);
 

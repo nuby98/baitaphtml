@@ -20,17 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95d98264-bb48-4f2d-8b34-bff950782b6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/baitap_ss8/Luyentapcautrucdk1_ss8/baitap1_ss8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap_ss8/Luyentapcautrucdk1_ss8/baitap2_ss8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap_ss8/Luyentapcautrucdk1_ss8/baitap3_ss8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap_ss8/Luyentapcautrucdk1_ss8/baitap4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap_ss8/Luyentapcautrucdk1_ss8/baitap5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap_ss8/Luyentapcautrucdk1_ss8/baitap6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap_ss8/baitap_tinhthang_ss8/tinhthang_ss8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap_ss8/baitap_tinhthang_ss8/tinhthang_ss8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss9/baitap10_ss9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss9/baitap11_ss9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss9/baitap12.ss9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss9/baitap3_ss9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss9/baitap4_ss9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss9/baitap5_ss9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss9/baitap6_ss9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss9/baitap7_ss9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss9/baitap8_ss9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss9/baitap9_ss9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap_ss8/tính chỉ số cân nặng ss8/baitap_tinhcannang_ss8.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap_ss8/tính chỉ số cân nặng ss8/baitap_tinhcannang_ss8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap_ss8/tính chỉ số cân nặng ss8/cannan_ss8.js" beforeDir="false" afterPath="$PROJECT_DIR$/baitap_ss8/tính chỉ số cân nặng ss8/cannan_ss8.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module1/Bai tap/baitapss3/timsolonnhat.drawio (1).png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module1/Bai tap/baitapss3/timsolonnhat.drawio.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
@@ -57,7 +58,9 @@
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="2II9pRJWORqaVxBGu1f5JKhwki3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -108,6 +111,8 @@
       <workItem from="1670338667613" duration="2968000" />
       <workItem from="1670384519225" duration="18621000" />
       <workItem from="1670411409496" duration="3661000" />
+      <workItem from="1670418747179" duration="8727000" />
+      <workItem from="1670462101310" duration="11867000" />
     </task>
     <servers />
   </component>
@@ -147,9 +152,9 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="427" y="100" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1669909242254" />
-    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1670341492896">
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1670420496604">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1670341492896" />
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1670420496604" />
   </component>
 </project>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Tính diện tích tam giác vuông khi biết 02 cạnh kề a, b.</title>
+</head>
+<body>
+<script>
+    /*
+    ab: độ dài cạnh góc vuông
+    S: diện tích tam giác vuôngab
+    công thức là: S=a*b/2
+     */
+    let a = +prompt("Nhập độ dài cạnh góc vuông a: ");
+    let b = +prompt("Nhập độ dài cạnh góc vuông b: ");
+    let s = a * b / 2;
+    if (a > 0 && b > 0) {
+        document.write("Diện tích tam giác vuông ab:  " + s);
+    } else {
+        document.write("Không phải diện tích tam giác vuôngab");
+    }
+</script>
+</body>
+</html>

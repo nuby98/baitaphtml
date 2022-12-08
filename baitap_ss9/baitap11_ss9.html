@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tính thuế thu nhập</title>
+</head>
+<body>
+<script>
+    let tien = +prompt('Nhập Lương được nhận:  ');
+    let thue;
+    if (tien > 80000000) {
+        thue = (tien * 35 / 100) - 9850000;
+        document.write('Thuê thu nhập phải nộp:  ' + thue + ' VND');
+    } else if (tien> 52000000 && tien <= 80000000) {
+        thue = (tien * 30 / 100) - 5850000;
+        document.write('Thuê thu nhập phải nộp:  ' + thue + ' VND');
+    } else if (32000000 < tien && tien <= 52000000) {
+        thue = (tien * 25 / 100) - 3250000;
+        document.write('Thuê thu nhập phải nộp:  ' + thue + ' VND');
+    } else if (18000000 < tien && tien <= 32000000) {
+        thue = (tien * 20 / 100) - 1650000;
+        document.write('Thuê thu nhập phải nộp:  ' + thue + ' VND');
+    } else if (10000000 < tien && tien <= 18000000) {
+        thue = (tien * 15 / 100) - 750000;
+        document.write('Thuê thu nhập phải nộp:  ' + thue + ' VND');
+    } else if (tien <= 10000000 && 5000000 < tien) {
+        thue = (tien * 10 / 100) - 250000;
+        document.write('Thuê thu nhập phải nộp:  ' + thue + ' VND');
+    } else {
+        thue = (tien * 5/ 100);
+        document.write('Thuê thu nhập phải nộp:  ' + thue + ' VND');
+    }
+</script>
+</body>
+</html>

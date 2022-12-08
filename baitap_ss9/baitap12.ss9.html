@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tính lãi ngân hàng</title>
+</head>
+<body>
+<script>
+    let tien = +prompt('Nhập số tiên ban đầu:  ');
+    let thang = +prompt('Nhập số tháng cho vay: ');
+    let muc = +prompt('Nhập lãi xuất hàng tháng:  %');
+    let lai;
+    if (tien >= 1000000 && thang >= 1 && muc >= 0) {
+        lai = (tien * muc / 100) / thang;
+        document.write('Số tiền lãi phải trả là: ' + lai + " VND");
+    }
+
+</script>
+</body>
+</html>

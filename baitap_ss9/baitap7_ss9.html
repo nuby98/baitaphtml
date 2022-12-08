@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Giải phương trình bậc 2.</title>
+</head>
+<body>
+<script>
+    /*
+    tam giác= b*b-4*a*c
+    Cách giải
+    Nếu Tam giác <0 thì phương trình Vô nghiệm;
+    Nếu -------- =0 ---------------- có nghiệm kép: x1=x2=-b/2a;
+    Nếu--------- >0 ---------------- có 2 nghiệm:
+    x1 -b+Math.sqrt(tam giac)/(2*a)
+    x2 +b+math.sqrt(tam giac)/(2*a)
+     */
+    let a = +prompt('Nhập a:  ');
+    let b = +prompt('Nhập b  ');
+    let c = +prompt('Nhập c  ');
+    let x1;
+    let x2;
+    let trianle = b * b - 4 * a * c;
+    if (trianle < 0) {
+        document.write('Phương trình vô nghiệm');
+    } else if (trianle === 0) {
+        x1 = -b / 2 * a;
+        document.write('Kết quả: ' + x1);
+    } else if (trianle > 0){
+        x1 = (-b + Math.sqrt(trianle)) / (2 * a);
+        x2 = (+b + Math.sqrt(trianle)) / (2 * a);
+        document.write('Kết quả: ' + x1  + x2);
+    }
+
+</script>
+</body>
+</html>

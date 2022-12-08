@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tính diện tích hình chữ nhật khi biết 02 cạnh a, b.</title>
+</head>
+<body>
+<script>
+    /*
+    S: Diện tích hình chữ nhật
+    a: chiều dài hình chữ nhật
+    b: chiều rộng hình chữ nhật
+    công thức: S=a*b
+    */
+    let a = +prompt("Nhập chiều dài hình chữ nhật: ");
+    let b = +prompt("Nhập chiều rộng hình chữ nhật: ");
+    let s = a * b;
+    if (a > 0 && b > 0) {
+        document.write('Diện tích hình chữ nhật là: ' + s);
+    } else {
+        document.write('không phải hinh chữ nhật');
+    }
+</script>
+</body>
+</html>

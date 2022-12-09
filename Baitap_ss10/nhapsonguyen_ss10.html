@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hiển thị các số nguyên tố đầu tiên</title>
+</head>
+<body>
+<div id="result"></div>
+</body>
+<script>
+    let result = document.getElementById("result");
+    let n = +prompt("nhập tổng số bạn muốn in: ");
+    let count = 1;
+    for (let i = 2; count <= n; i++) {
+        let flag = true;
+        for (let j = 2; j <= Math.sqrt(i); j++) {
+            if (i % j === 0) {
+                flag = false;
+                break;
+            } else {
+                flag = true;
+            }
+
+        }
+        if (flag === true) {
+            result.innerHTML += i + "&nbsp;&nbsp;";
+            count++;
+        }
+    }
+
+</script>
+</html>

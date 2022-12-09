@@ -20,9 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95d98264-bb48-4f2d-8b34-bff950782b6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Baitap_ss10/baitap_x_ss10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baitap_ss10/Baitap1_ss10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baitap_ss10/baitap2_ss10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baitap_ss10/baitap3_ss10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baitap_ss10/baitap5_ss10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baitap_ss10/nhapsonguyen_ss10.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap_ss9/baitap9_ss9.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap_ss9/baitap9_ss9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baitap_ss10/baitap_x_ss10.html" beforeDir="false" afterPath="$PROJECT_DIR$/Baitap_ss10/baitap_x_ss10.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module1/Bai tap/baitapss3/timsolonnhat.drawio (1).png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module1/Bai tap/baitapss3/timsolonnhat.drawio.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
@@ -78,6 +82,24 @@
       <recent name="D:\codegym C1122G1\HTML\baitap_SS5" />
     </key>
   </component>
+  <component name="RunManager" selected="JavaScript Debug.baitap3_ss10.html">
+    <configuration name="baitap3_ss10.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML/Baitap_ss10/baitap3_ss10.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="baitap_x_ss10.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML/Baitap_ss10/baitap_x_ss10.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="nhapsonguyen_ss10.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML/Baitap_ss10/nhapsonguyen_ss10.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.baitap3_ss10.html" />
+        <item itemvalue="JavaScript Debug.nhapsonguyen_ss10.html" />
+        <item itemvalue="JavaScript Debug.baitap_x_ss10.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -105,6 +127,8 @@
       <workItem from="1670418747179" duration="8727000" />
       <workItem from="1670462101310" duration="17219000" />
       <workItem from="1670509531110" duration="3098000" />
+      <workItem from="1670557538763" duration="14192000" />
+      <workItem from="1670588358826" duration="2456000" />
     </task>
     <servers />
   </component>
@@ -136,10 +160,78 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1670384662135" />
+    <state width="1515" height="187" key="GridCell.Tab.0.bottom" timestamp="1670590823878">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="187" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1670590823878" />
+    <state width="1515" height="187" key="GridCell.Tab.0.center" timestamp="1670590823877">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="187" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1670590823877" />
+    <state width="1515" height="187" key="GridCell.Tab.0.left" timestamp="1670590823877">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="187" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1670590823877" />
+    <state width="1515" height="187" key="GridCell.Tab.0.right" timestamp="1670590823877">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="187" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1670590823877" />
+    <state width="1515" height="187" key="GridCell.Tab.1.bottom" timestamp="1670590823878">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="187" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1670590823878" />
+    <state width="1515" height="187" key="GridCell.Tab.1.center" timestamp="1670590823878">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="187" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1670590823878" />
+    <state width="1515" height="187" key="GridCell.Tab.1.left" timestamp="1670590823878">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="187" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1670590823878" />
+    <state width="1515" height="187" key="GridCell.Tab.1.right" timestamp="1670590823878">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="187" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1670590823878" />
+    <state width="1515" height="187" key="GridCell.Tab.2.bottom" timestamp="1670590823878">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="187" key="GridCell.Tab.2.bottom/0.0.1536.816@0.0.1536.816" timestamp="1670590823878" />
+    <state width="1515" height="187" key="GridCell.Tab.2.center" timestamp="1670590823878">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="187" key="GridCell.Tab.2.center/0.0.1536.816@0.0.1536.816" timestamp="1670590823878" />
+    <state width="1515" height="187" key="GridCell.Tab.2.left" timestamp="1670590823878">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="187" key="GridCell.Tab.2.left/0.0.1536.816@0.0.1536.816" timestamp="1670590823878" />
+    <state width="1515" height="187" key="GridCell.Tab.2.right" timestamp="1670590823878">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="187" key="GridCell.Tab.2.right/0.0.1536.816@0.0.1536.816" timestamp="1670590823878" />
+    <state width="1515" height="187" key="GridCell.Tab.3.bottom" timestamp="1670590823878">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="187" key="GridCell.Tab.3.bottom/0.0.1536.816@0.0.1536.816" timestamp="1670590823878" />
+    <state width="1515" height="187" key="GridCell.Tab.3.center" timestamp="1670590823878">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="187" key="GridCell.Tab.3.center/0.0.1536.816@0.0.1536.816" timestamp="1670590823878" />
+    <state width="1515" height="187" key="GridCell.Tab.3.left" timestamp="1670590823878">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="187" key="GridCell.Tab.3.left/0.0.1536.816@0.0.1536.816" timestamp="1670590823878" />
+    <state width="1515" height="187" key="GridCell.Tab.3.right" timestamp="1670590823878">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="187" key="GridCell.Tab.3.right/0.0.1536.816@0.0.1536.816" timestamp="1670590823878" />
     <state x="578" y="149" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1669969212808">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="578" y="149" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1669969212808" />
+    <state x="327" y="0" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1670573651212">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="327" y="0" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.816@0.0.1536.816" timestamp="1670573651212" />
     <state x="427" y="100" key="run.anything.popup" timestamp="1669909242254">
       <screen x="0" y="0" width="1536" height="816" />
     </state>

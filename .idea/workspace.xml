@@ -20,13 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95d98264-bb48-4f2d-8b34-bff950782b6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Baitap_ss10/Baitap1_ss10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Baitap_ss10/baitap2_ss10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Baitap_ss10/baitap3_ss10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Baitap_ss10/baitap5_ss10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Baitap_ss10/nhapsonguyen_ss10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baitap_ss10/baitap_x_ss10.html" beforeDir="false" afterPath="$PROJECT_DIR$/Baitap_ss10/baitap_x_ss10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baitap_ss10/baitap5_ss10.html" beforeDir="false" afterPath="$PROJECT_DIR$/Baitap_ss10/baitap5_ss10.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module1/Bai tap/baitapss3/timsolonnhat.drawio (1).png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module1/Bai tap/baitapss3/timsolonnhat.drawio.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
@@ -129,6 +123,7 @@
       <workItem from="1670509531110" duration="3098000" />
       <workItem from="1670557538763" duration="14192000" />
       <workItem from="1670588358826" duration="2456000" />
+      <workItem from="1670591108243" duration="100000" />
     </task>
     <servers />
   </component>

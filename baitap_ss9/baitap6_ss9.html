@@ -6,25 +6,25 @@
 </head>
 <body>
 <script>
- /*
-Xét phương trình ax + b = 0
+    /*
+   Xét phương trình ax + b = 0
 
-Nếu a = 0 và b = 0: phương trình có vô số nghiệm.
+   Nếu a = 0 và b = 0: phương trình có vô số nghiệm.
 
-Nếu a = 0 và b <> 0: phương trình vô nghiệm.
+   Nếu a = 0 và b <> 0: phương trình vô nghiệm.
 
-Nếu a <> 0: phương trình có nghiệm duy nhất x = -b : a.
-*/
-let a = +prompt("Nhập a:  ");
-let b = +prompt('Nhập b:  ');
-let x = -b / a;
-if (a === 0 && b === 0) {
-document.write("Phương trình có vô số nghiệm.");
-} else if (a === 0 && b !== 0) {
-document.write("Phương trình vô nghiệm.");
-} else {
-document.write("Phương trình có tập nghiệm là:  " + x);
-}
+   Nếu a <> 0: phương trình có nghiệm duy nhất x = -b : a.
+   */
+    let a = +prompt("Nhập a:  ");
+    let b = +prompt('Nhập b:  ');
+    let x = -b / a;
+    if (a === 0 && b === 0) {
+        document.write("Phương trình có vô số nghiệm.");
+    } else if (a === 0 && b !== 0) {
+        document.write("Phương trình vô nghiệm.");
+    } else {
+        document.write("Phương trình có tập nghiệm là:  " + x);
+    }
 </script>
 </body>
 </html>

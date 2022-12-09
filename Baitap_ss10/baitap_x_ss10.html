@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>Bảng Cửu Chương</h1>
+<script>
+    let code;
+    code = "<table border='1' width='900' cellspacing='2' cellpadding='5' style=color:blue >"
+    for (i = 1; i <= 9; i++) {
+        code = code + "<tr>";
+        for (j = 1; j <= 9; j++) {
+            code = code + "<td>" + j + ' x ' + i + ' = ' + i * j + "</td>";
+        }
+        code = code + "</tr>";
+    }
+    code = code + "</table>";
+    document.write(code);
+</script>
+</body>
+</html>

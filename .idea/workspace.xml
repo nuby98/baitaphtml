@@ -20,18 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95d98264-bb48-4f2d-8b34-bff950782b6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/baitap_ss9/baitap10_ss9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap_ss9/baitap11_ss9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap_ss9/baitap12.ss9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap_ss9/baitap3_ss9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap_ss9/baitap4_ss9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap_ss9/baitap5_ss9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap_ss9/baitap6_ss9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap_ss9/baitap7_ss9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap_ss9/baitap8_ss9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap_ss9/baitap9_ss9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baitap_ss10/baitap_x_ss10.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap_ss9/baitap9_ss9.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap_ss9/baitap9_ss9.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module1/Bai tap/baitapss3/timsolonnhat.drawio (1).png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module1/Bai tap/baitapss3/timsolonnhat.drawio.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
@@ -112,7 +103,8 @@
       <workItem from="1670384519225" duration="18621000" />
       <workItem from="1670411409496" duration="3661000" />
       <workItem from="1670418747179" duration="8727000" />
-      <workItem from="1670462101310" duration="11867000" />
+      <workItem from="1670462101310" duration="17219000" />
+      <workItem from="1670509531110" duration="3098000" />
     </task>
     <servers />
   </component>
@@ -132,10 +124,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="400" y="0" key="#Inspections" timestamp="1670399902958">
+    <state x="400" y="0" key="#Inspections" timestamp="1670512939442">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="400" y="0" key="#Inspections/0.0.1536.816@0.0.1536.816" timestamp="1670399902958" />
+    <state x="400" y="0" key="#Inspections/0.0.1536.816@0.0.1536.816" timestamp="1670512939442" />
     <state x="544" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1669903665016">
       <screen x="0" y="0" width="1536" height="816" />
     </state>

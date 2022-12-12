@@ -6,11 +6,14 @@
 </head>
 <body>
 <script>
-    let nhap;
+
+    let nhap= +prompt("Nhập thông tin nhiệt độ hiện tại: ");
     do {
-        nhap = +prompt("Nhập thông tin nhiệt độ hiện tại: ");
-    } while (nhap < 20 || nhap > 100)
-    alert("Cảm ơn đã nhập");
+        nhap= +prompt("Mời bạn nhập lại: ");
+    } while(nhap <20 || nhap >100)
+    alert('Cảm ơn bạn đã nhập');
+
+
 </script>
 </body>
 </html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>game</title>
+</head>
+<body>
+
+</body>
+<script>
+    let nhap = +prompt("Nhập vào số muốn đoán trong khoản nào: ");
+    let tinh = Math.floor(Math.random() * nhap);
+    let lan = 0;
+    for (let i = 1; i <= 3; i++) {
+        let yourNumber = +prompt("nhập số bạn đoán");
+        lan = lan + i;
+        if (yourNumber === tinh) {
+            alert("Chúc mừng bạn đã đoán trúng");
+            break;
+        } else {
+            alert("bạn đã đoán sai, mời đoán lại");
+        }
+        if (lan > 3) {
+            alert("Rất tiếc, bạn đã hết số lần đoán");
+            break;
+        }
+    }
+</script>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script>
+    let n = +prompt('Nhập số n:');
+    let array=[];
+    for (let i=0; i<n;i++){
+        array[i]= prompt('Nhập mảng:');
+        if (array[i]==='-'){
+            array[i]='_';
+        }
+    }
+    document.write(array);
+</script>
+</html>

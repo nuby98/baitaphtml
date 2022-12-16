@@ -20,13 +20,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95d98264-bb48-4f2d-8b34-bff950782b6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/baitap_ss11/bai4_ss11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap_ss11/baitap3_ss11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap_ss11/baitap8_ss11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss12/baitap1_sử dụng các hàm/baitap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss12/baitap1_sử dụng các hàm/baitap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss12/baitap1_sử dụng các hàm/baitap3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss12/luyentapmang1_ss12/baitap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss12/luyentapmang1_ss12/baitap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss12/luyentapmang1_ss12/baitap3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss12/luyentapmang1_ss12/baitap4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss12/luyentapmang1_ss12/baitap5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss12/luyentapmang1_ss12/baitap6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss12/luyentapmang1_ss12/baitap7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss12/luyentapmang1_ss12/baitap8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss12/luyentapmang1_ss12/baitap9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss12/luyentapmang2_ss12/baitap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss12/luyentapmang2_ss12/baitap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss12/luyentapmang2_ss12/baitap3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss12/luyentapmang2_ss12/baitap4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss12/luyentapmang2_ss12/baitap5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss12/luyentapmang2_ss12/baitap6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap_ss12/tudien_ss12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hàm_ss13/kiemtra_ss13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hàm_ss13/luyentap1/baitap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hàm_ss13/luyentap1/baitap2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap_ss11/baitap6_ss11.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap_ss11/baitap6_ss11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap_ss11/baitap7_ss11.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap_ss11/baitap7_ss11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap_ss11/luyện tập vòng lặp 2_baitap2.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap_ss11/luyện tập vòng lặp 2_baitap2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module1/Bai tap/baitapss3/timsolonnhat.drawio (1).png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module1/Bai tap/baitapss3/timsolonnhat.drawio.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
@@ -136,7 +152,12 @@
       <workItem from="1670591108243" duration="100000" />
       <workItem from="1670755376597" duration="332000" />
       <workItem from="1670808569226" duration="21599000" />
-      <workItem from="1670847511737" duration="333000" />
+      <workItem from="1670847511737" duration="2884000" />
+      <workItem from="1670903647391" duration="9376000" />
+      <workItem from="1670999299065" duration="7173000" />
+      <workItem from="1671078572902" duration="10816000" />
+      <workItem from="1671101496510" duration="8054000" />
+      <workItem from="1671153536020" duration="2100000" />
     </task>
     <servers />
   </component>
@@ -244,9 +265,9 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="427" y="100" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1669909242254" />
-    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1670420496604">
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1670904697318">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1670420496604" />
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1670904697318" />
   </component>
 </project>

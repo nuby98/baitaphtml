@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script>
+    let n = +prompt('nhập số n:');
+    let arr = [];
+    let max;
+    for (let i = 0; i < n; i++) {
+        arr[i] = +prompt('Nhập mảng số nguyên: ');
+    }
+    for (let j = 0; j < arr.length; j++) {
+        for (let z = j + 1; z <= arr.length; z++) {
+            if (arr[z] > arr[j]) {
+                max = arr[z];
+                arr[z] = arr[j];
+                arr[j] = max;
+            }
+        }
+    }
+    alert(arr)
+
+</script>
+</html>

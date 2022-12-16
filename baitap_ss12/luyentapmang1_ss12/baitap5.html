@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let arr = [];
+    let count = 0;
+    let n = +prompt('nhập vào số lượng phần tử trong mảng');
+    for (let i = 0; i < n; i++) {
+        arr[i] = +prompt('nhập vào phần tử thứ i trong mảng');
+    }
+    for (let j = 0; j < arr.length; j++) {
+        if (arr[j] < 0) {
+            count++;
+        }
+    }
+    alert('Số lượng số nguyên âm có trong mảng là: ' + count);1
+</script>
+</body>
+</html>

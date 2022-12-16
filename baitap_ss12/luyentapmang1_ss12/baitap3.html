@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script>
+    let arr = [];
+    let max;
+    let avr = 0;
+    for (let i = 0; i < 10; i++) {
+        arr[i] = parseInt(prompt('Giá trị phần tử thứ ' + (i + 1) + ' là:'));
+    }
+    max = arr[0];
+    for (let i = 0; i < 10; i++) {
+        avr += arr[0];
+        if (arr[i] > max) {
+            max = arr[i];
+        }
+    }
+    alert("Số lớn nhất trong mảng là: " + max + "Giá trị trung bình của mảng là: " + avr);
+</script>
+</html>

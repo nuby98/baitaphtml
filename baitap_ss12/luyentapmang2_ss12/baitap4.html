@@ -8,13 +8,13 @@
 
 </body>
 <script>
-    let n=+prompt("nhập số n:");
-    let array=[]
-    let count=0;
+    let n = +prompt("nhập số n:");
+    let array = [];
+    let count = 0;
     for (let i=0;i<n;i++){
         array[i]= prompt("Nhập mảng:");
         if (isNaN(array[i])){
-            count++
+            count++;
         }
     }
     document.write("số từ trong mảng là:" + count);

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script>
+    let n = +prompt("Nhập số vòng lặp:");
+    let arr = [];
+    for (let i = 0; i < n; i++) {
+        arr[i] = prompt("nhập mảng:");
+    }
+
+    function change(a) {
+        let arr1 = [];
+        for (let j = n; j >= 0; j--) {
+            arr1.push(a[j]);
+        }
+        return arr1;
+    }
+
+    document.write("Mảng vừa nhập: " + arr + "<br>");
+    document.write("Đảo ngược mảng" + change(arr));
+</script>
+</html>

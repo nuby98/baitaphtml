@@ -20,30 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95d98264-bb48-4f2d-8b34-bff950782b6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hàm_ss13/luyentap1/baitap3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hàm_ss13/luyentap1/baitap4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hàm_ss13/luyentap1/baitap5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hàm_ss13/luyentap2/baitap1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hàm_ss13/luyentap2/baitap2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hàm_ss13/luyentap2/baitap3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hàm_ss13/luyentap2/baitap4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hàm_ss13/luyentap2/baitap5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hàm_ss13/luyentap2/baitap6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hàm_ss13/luyentap2/baitap7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hàm_ss13/luyentap2/baitap8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hàm_ss13/luyentap2/baitap9.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap_ss12/luyentapmang1_ss12/baitap1.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap_ss12/luyentapmang1_ss12/baitap1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap_ss12/luyentapmang1_ss12/baitap2.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap_ss12/luyentapmang1_ss12/baitap2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap_ss12/luyentapmang1_ss12/baitap5.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap_ss12/luyentapmang1_ss12/baitap5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap_ss12/luyentapmang1_ss12/baitap6.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap_ss12/luyentapmang1_ss12/baitap6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap_ss12/luyentapmang1_ss12/baitap7.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap_ss12/luyentapmang1_ss12/baitap7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap_ss12/luyentapmang1_ss12/baitap8.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap_ss12/luyentapmang1_ss12/baitap8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap_ss12/luyentapmang1_ss12/baitap9.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap_ss12/luyentapmang1_ss12/baitap9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap_ss12/luyentapmang2_ss12/baitap2.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap_ss12/luyentapmang2_ss12/baitap2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap_ss12/luyentapmang2_ss12/baitap3.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap_ss12/luyentapmang2_ss12/baitap3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap_ss12/luyentapmang2_ss12/baitap4.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap_ss12/luyentapmang2_ss12/baitap4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hàm_ss13/luyentap1/baitap2.html" beforeDir="false" afterPath="$PROJECT_DIR$/hàm_ss13/luyentap1/baitap2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hàm_ss13/luyentap2/baitap7.html" beforeDir="false" afterPath="$PROJECT_DIR$/hàm_ss13/luyentap2/baitap7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hàm_ss13/luyentap2/baitap8.html" beforeDir="false" afterPath="$PROJECT_DIR$/hàm_ss13/luyentap2/baitap8.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module1/Bai tap/baitapss3/timsolonnhat.drawio (1).png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module1/Bai tap/baitapss3/timsolonnhat.drawio.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
@@ -162,7 +141,8 @@
       <workItem from="1670999299065" duration="7173000" />
       <workItem from="1671078572902" duration="10816000" />
       <workItem from="1671101496510" duration="8054000" />
-      <workItem from="1671153536020" duration="25327000" />
+      <workItem from="1671153536020" duration="25877000" />
+      <workItem from="1671505454620" duration="345000" />
     </task>
     <servers />
   </component>

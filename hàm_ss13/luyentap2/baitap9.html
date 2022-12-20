@@ -16,7 +16,7 @@
         arr[i] = prompt("Nhập mảng:");
     }
 
-    function test(a, b) {
+    function testArr(a, b) {
         for (let i = 0; i < n; i++) {
             if (a[i] === b) {
                 count++;
@@ -26,7 +26,7 @@
         return count === 0 ? -1 : count;
     }
 
-    result = test(arr, characters);
+    result = testArr(arr, characters);
     alert(result);
 </script>
 </html>

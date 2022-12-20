@@ -20,9 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95d98264-bb48-4f2d-8b34-bff950782b6a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/OOP_ss14/adam_eva.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_ss14/baitap2_ss14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_ss14/baitap_ss14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_ss14/bongden_onoff.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hàm_ss13/luyentap2/baitap7.html" beforeDir="false" afterPath="$PROJECT_DIR$/hàm_ss13/luyentap2/baitap7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hàm_ss13/luyentap2/baitap8.html" beforeDir="false" afterPath="$PROJECT_DIR$/hàm_ss13/luyentap2/baitap8.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module1/Bai tap/baitapss3/timsolonnhat.drawio (1).png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module1/Bai tap/baitapss3/timsolonnhat.drawio.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
@@ -142,7 +144,7 @@
       <workItem from="1671078572902" duration="10816000" />
       <workItem from="1671101496510" duration="8054000" />
       <workItem from="1671153536020" duration="25877000" />
-      <workItem from="1671505454620" duration="345000" />
+      <workItem from="1671505454620" duration="11906000" />
     </task>
     <servers />
   </component>
@@ -170,6 +172,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="544" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1669903665016" />
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1671531574554">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1671531574554" />
     <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1670384662135">
       <screen x="0" y="0" width="1536" height="816" />
     </state>

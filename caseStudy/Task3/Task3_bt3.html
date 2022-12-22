@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script>
+
+    let listFraction = +prompt("Nhập số phần tử của mảng");
+
+    let numerators = [];
+
+    let denominators = [];
+
+    let arrFraction = [];
+
+    for (let i = 0; i < listFraction; i++) {
+        numerators[i] = +prompt("Nhap phan tu thu " + (i + 1) + " cua danh sach tu so.");
+    }
+
+    for (let i = 0; i < listFraction; i++) {
+        denominators[i] = +prompt("Nhap phan tu thu " + (i + 1) + " cua danh sach mau so.");
+    }
+
+    for (let i = 0; i < listFraction; i++) {
+        let fraction = numerators[i] / denominators[i];
+        arrFraction.push(numerators[i] / denominators[i]);
+    }
+
+    let result = 0;
+    let max = arrFraction[0];
+    for (let i = 0; i < arrFraction.length; i++) {
+        if (arrFraction[i] > max) {
+            result = i;
+        }
+    }
+    alert("max là " + result);
+
+</script>
+</html>

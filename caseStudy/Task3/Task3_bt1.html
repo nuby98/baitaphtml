@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script>
+    let arr = [];
+    let n = +prompt("nhap so phan tu cua mang: ");
+    for (let i = 0; i < n; i++) {
+        arr[i] = +prompt("Nhap gia tri: ");
+    }
+    let newArr = [];
+    let sum = 0;
+    for (let i = 0; i < n; i++) {
+        for (let j = 0; j <= i; j++) {
+            sum += arr[j];
+        }
+        newArr.push(sum);
+    }
+    document.write(newArr);
+</script>
+</html>

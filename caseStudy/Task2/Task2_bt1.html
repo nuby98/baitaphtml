@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script>
+    let tien = +prompt("Nhập số tiền lương: ");
+    let thue;
+    let luong;
+    if (tien >= 15000000) {
+        thue = (tien * 20 / 100) - 1650000;
+        luong = tien - thue;
+        document.write("Tính 20% thuế thu nhập: " + thue + "VNĐ" + "<br>" + " Lương được nhận sau thuế: " + luong + "VNĐ");
+    } else if (tien >= 7000000 && tien < 15000000) {
+        thue = (tien * 10 / 100) - 250000;
+        luong = tien - thue;
+        document.write("Tính 10% thuế thu nhập: " + thue + "VNĐ" + "<br>" + " Lương được nhận sau thuế: " + luong + "VNĐ");
+    } else {
+        thue = (tien * 5 / 100);
+        luong = tien - thue;
+        document.write("Tính 5% thuế thu nhập: " + thue + "VNĐ" + "<br>" + " Lương được nhận sau thuế: " + luong + "VNĐ");
+    }
+
+</script>
+</html>

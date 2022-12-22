@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script>
+    let a = [];
+    let b = [];
+    let n = +prompt("Nhap so phan tu cua mang: ");
+    for (let i = 0; i < n; i++) {
+        a[i] = +prompt("Nhap gia tri a: ");
+    }
+    for (let i = 0; i < n; i++) {
+        b[i] = +prompt("Nhap gia tri b: ");
+    }
+    for (let i = 0; i < n; i++) {
+        if (b[i] !== a[i]) {
+            document.write(b[i] + ",");
+        }
+    }
+</script>
+</html>

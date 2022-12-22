@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script>
+
+    let flag = true
+    do {
+        let menu = prompt("1 (cafe), 2 (cam vắt), 3(nước ép cà rốt), 4(nước ép cà chua), 5(nước lọc), 6(nước dừa), 7(thoát gọi món)");
+
+        switch (menu) {
+            case '1':
+                let cafe = prompt("cafe = 17000vnd" + "Mới nhập số lượng muốn mua: ");
+                cafe = cafe * 17000;
+                alert(cafe + 'VNĐ');
+                break;
+            case '2':
+                let cam = prompt("Nước ép cam  = 30000vnd" + "Mới nhập số lượng muốn mua: ");
+                cam = cam * 30000;
+                alert(cam + 'VNĐ');
+                break;
+            case '3':
+                let carot = prompt("Nước ép cà rốt = 30000vnd" + "Mới nhập số lượng muốn mua: ");
+                carot = carot * 30000;
+                alert(carot + 'VNĐ');
+                break;
+            case '4':
+                let cachua = prompt("Nước ép cà chua = 30000vnd" + "Mới nhập số lượng muốn mua: ");
+                cachua = cachua * 30000;
+                alert(cachua + 'VNĐ');
+                break;
+            case '5':
+                let nuoc = prompt(" Aquafina = 10000vnd" + "Mới nhập số lượng muốn mua: ");
+                nuoc = nuoc * 10000;
+                alert(nuoc + 'VNĐ');
+                break;
+            case '6':
+                let dua = prompt("Nước Dừa = 15000vnd" + "Mới nhập số lượng muốn mua: ");
+                dua = dua * 15000;
+                alert(dua + 'VNĐ');
+                break;
+            case '7':
+                flag = false;
+        }
+
+
+    } while (flag)
+
+
+</script>
+</html>

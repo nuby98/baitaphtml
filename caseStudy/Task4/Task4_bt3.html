@@ -10,6 +10,31 @@
 <script>
     let s1 = "aabcc";
     let s2 = "adcaa";
+    let arr1 = s1.split("");
+    let arr2 = s2.split("");
+    let array = [];
+    for (let i = 0; i < arr1.length; i++) {
+        for (let j = 0; j < arr2.length; j++) {
+            if (arr1[i] === arr2[j]) {
+                array.push(arr1[i]);
+                arr1.splice(i, 1);
+                arr2.splice(j, 1);
+            }
+        }
+    }
+
+    for (let n = 0; n < array.length; n++) {
+        let count = 1;
+        for (let m = n + 1; m < array.length; m++) {
+            if (array[n] === array[m]) {
+                count++;
+                array.splice(m, 1);
+                m--;
+            }
+        }
+        document.write("Có " + count + " ký tự  " + array[n] + "<br>");
+    }
+
 
 
 

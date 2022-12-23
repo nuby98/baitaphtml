@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script>
+    function check(number) {
+        if (number === 2 || number === 3) {
+            return true;
+        } else {
+            let flag = true;
+            for (let i = 2; i <= Math.sqrt(number); i++) {
+                if (number % i === 0) {
+                    flag = false;
+                    return flag;
+                }
+                return flag;
+            }
+        }
+    }
+
+        let arr = [];
+        let arrNew = [[2, 4, 6, 5, 7, 3], [5, 8, 3, 9, 2, 4]];
+        for (let a = 0; a < arrNew.length; a++) {
+            for (let j = 0; j < arrNew[a].length; j++) {
+                if (check(arrNew[a][j]) === true) {
+                    arr.push(arrNew[a][j]);
+                }
+            }
+        }
+        document.write(arr + "<br>");
+        document.write("Co " + arr.length + " so");
+
+
+</script>
+</html>

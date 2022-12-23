@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script>
+    function findMax(array) {
+        let max = array[0][0];
+        for (let i = 0; i < array.length; i++) {
+            for (let j = 0; j < array[i].length; j++) {
+                if (array[i][j] > max) {
+                    max = array[i][j];
+                }
+            }
+        }
+        return max;
+
+    }
+
+    function findMin(array) {
+        let min = array[0][0];
+        for (let i = 0; i < array.length; i++) {
+            for (let j = 0; j < array[i].length; j++) {
+                if (array[i][j] < min) {
+                    min = array[i][j];
+                }
+            }
+        }
+        return min;
+
+    }
+
+    let n = +prompt("nhap do dai mang 2 chieu");
+    let arr1 = new Array(n);
+    for (let i = 0; i < n; i++) {
+        let m = +prompt("nhap do dai mang i:" + i);
+        let arr2 = new Array(m);
+        for (let j = 0; j < m; j++) {
+            arr2[j] = +prompt("nhap phan tu:" + j);
+        }
+        arr1[i] = arr2;
+    }
+    document.write("max = " + findMax(arr1) + "<br>");
+    document.write("min = " + findMin(arr1));
+</script>
+</html>
